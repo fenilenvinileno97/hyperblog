@@ -88,3 +88,11 @@ body
     background:#fff;
     padding:1em}
 >>>>>>> 198a44044f5ba73aa4eab28b95ed5d58229da850
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+
+}
